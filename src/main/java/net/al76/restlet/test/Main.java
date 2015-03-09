@@ -19,7 +19,7 @@ import org.restlet.resource.Directory;
 public class Main {
 
     // URI of the root directory.  
-    public static final String ROOT_URI = "file:///C://Users//alessio.finamore//Documents";
+    public static final String ROOT_URI = "file:///C://Users//test//Documents";
 
     /**
      * @param args the command line arguments
